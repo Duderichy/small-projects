@@ -1,0 +1,15 @@
+<data>
+<activity value="jazzercise" gender="women">
+    <ageRange value="50s"/>
+    <ageGroup value="old-people"/>
+</activity>
+<activity value="weightlifting" gender="men">
+    <ageRange value="20s"/>
+    <ageGroup value="adults"/>
+</activity>
+<activity value="weightweightlifting" gender="men">
+    <ageRange value="20s" level="1"/>
+    <ageGroup value="adults" level="2"/>
+    <ageClass value="non-minor" level="3"/>
+</activity>
+</data>
